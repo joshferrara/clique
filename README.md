@@ -1,11 +1,4 @@
-Project Friendstagram
-=============
-
-A field guide to being the kind of person you'd hang out with. 
-
----
-
-### The Idea
+## The Idea
 
 I want to write a book about friends, and I want your help.
 
@@ -15,9 +8,7 @@ Ultimately, this will be more of a study than a list of direct instructions. I w
 
 Since the main topic here is friends and relationships, this is going to be a collaborative project. The next section explains how you can start contributing.
 
----
-
-### Get Involved
+## Get Involved
 
 This page you're reading right now is on a site called GitHub. GitHub is actually designed to help teams of people write code collaboratively. I use it every day for work and it's one of the best collaborative tools I've ever used, so I decided to use it to write this book. 
 
