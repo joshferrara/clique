@@ -6,15 +6,18 @@ A field guide to being the kind of person you'd hang out with.
 ---
 
 ### The Idea
+
+I want to write a book about friends, and I want your help.
+
 Have you ever encountered someone that you just inherently wanted to be friends with? Maybe it was a group of people that you've been around that you really wanted to hang out with? The goal of this project is to write a book that helps us all understand this dynamic in a way that can help us be better people and organizations.
 
 Ultimately, this will be more of a study than a list of direct instructions. I want to travel down the road of what makes a person or group of people attractive and enticing. Conversly, I want to discover what characteristics make a person or group uninviting and off-putting.
 
-Since the main topic here is friends and relationships, this is going to be a collaborative project. The next section explains how you can sign up for GitHub and start contributing.
+Since the main topic here is friends and relationships, this is going to be a collaborative project. The next section explains how you can start contributing.
 
 ---
 
-### Getting Involved
+### Get Involved
 
 This page you're reading right now is on a site called GitHub. GitHub is actually designed to help teams of people write code collaboratively. I use it every day for work and it's one of the best collaborative tools I've ever used, so I decided to use it to write this book. 
 
