@@ -10,3 +10,4 @@ On the other hand, we're really protective of certain periods of down time, beca
 - post hangs at the lairds
 - SSS party
 - lunch after church
+- super bowl parties
