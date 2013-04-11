@@ -1,26 +1,25 @@
 ## The Idea
 
-I want to write a book about friends, and I want your help.
+I'm writing a book and I want your help. 
 
-Have you ever encountered someone that you just inherently wanted to be friends with? Maybe it was a group of people that you've been around that you really wanted to hang out with? The goal of this project is to write a book that helps us all understand this dynamic in a way that can help us be better people and organizations.
+To get the full story, visit [projectclique.com](http://projectclique.com).
 
-Ultimately, this will be more of a study than a list of direct instructions. I want to travel down the road of what makes a person or group of people attractive and enticing. Conversly, I want to discover what characteristics make a person or group uninviting and off-putting.
+## Quick Start Guide
 
-Since the main topic here is friends and relationships, this is going to be a collaborative project. The next section explains how you can start contributing.
+The entire writing process for this book is going to happen right here, on GitHub, a site that enables collaborative writing. While it was originally intended for writing code, GitHub has many features that will be useful in the process of writing this book and working together to make it something worth reading.
 
-## Get Involved
+### Chapters
 
-This page you're reading right now is on a site called GitHub. GitHub is actually designed to help teams of people write code collaboratively. I use it every day for work and it's one of the best collaborative tools I've ever used, so I decided to use it to write this book. 
+In the [file browser](http://github.com/joshferrara/clique#slider) above you'll find a folder called `Chapters`, which contains all of the current chapters in progress. Clicking a chapter lets you view the work in progress. If you have changes you'd like to make while viewing a file, clicking the `Edit` button will "fork" the project. Forking simply a way of creating a copy of the project for you to edit without interferring with the original version. Once you've made your edits, just follow the instructions, `Propose File Changes`, and then submit a `Pull Request` which will let me see the changes you've suggested and merge them into the main project.
 
-To join in on the project, all you need to do is [sign up for a free GitHub account](https://github.com/signup/free).
+It may sound a little complicated, but if you follow the instructions at each step it's pretty straight-forward. 
 
-Once you've got an account, visit the [project page](http://github.com/joshferrara/friendstagram) and join in one of two ways:
+### Issues
 
-- Visit the [Issues](http://github.com/joshferrara/friendstagram/issues) page to see a list of ongoing discussions about different aspects of the project.
-    - Comment on existing discussion issues.
-    - Create a new discussion issue.
-- View the actual book [content files](http://github.com/joshferrara/friendstagram#slider). This is where the actual writing is done.
-    - Propose changes to existing content.
-    - Add new content of your own.
+The [Issues](https://github.com/joshferrara/clique/issues) tab is where ideas can be discussed, new topics proposed, and it's also where a running list of todos for the project lives. 
 
-One of the best features of GitHub is that everything on the project is versioned. That means that every change is tracked and, more importantly, that you can't mess anything up! So feel free to explore, and once you're ready, start collaborating!
+Each `Issue` is a ongoing discussion, so feel free to chime in and offer your thoughts on any issues that spark your interest.
+
+## Confused?
+
+If you're like me, this is the first time you've been a part of anything like this. We're figuring it out together as we go, so if you have any questions or ideas that you'd rather send directly to me, feel free to send me an email: <joshferrara@gmail.com>
