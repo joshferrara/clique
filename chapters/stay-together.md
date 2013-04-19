@@ -1,0 +1,1 @@
+The natural desire to keep the group together. Whether you're having so good post hangs and don't want people to go home, or you're discussing a friend moving away and selfishly want them to stay with the group, it's an interesting dynamic. 
