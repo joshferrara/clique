@@ -1,0 +1,3 @@
+Along the idea that `a rising tide lifts all boats`, the successes and opportunities of one person within a healthy group is often felt as a positive outcome for the whole group. Better, arguably, is the idea that as the tide rises, you have no choice but to raise your standards. 
+
+In my group of friends, it would stick out like a sore thumb if I was uncommitted to my job, slept all day, and didn't have much drive. There are plenty of people that I could hang around and not feel any tension from acting apathetic or lazy, but because the tide has risen in my group of friends, I'm held accountable to a higher standard of living.
