@@ -5,4 +5,4 @@ It may be easy to read about incredible groups of friends and assume that they'v
 - Gabi gets Hangry
 - Josh gets lost in Twitter
 - Jon and Josh work too much
-- Danae is pregnate
+- Danae is pregnant
