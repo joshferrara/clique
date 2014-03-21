@@ -10,6 +10,12 @@ While he was home with his family, Gabi and Katie put together a care package fo
 
 Once Emma's condition was stabilized, Fraser decided to come back to Baton Rouge and finish out his original 6 month commitment. In a convenient twist of fate, Ricquel happened to be visiting her mom in Michigan right around the time Fraser was driving home, so she helped him make the drive back to Baton Rouge.
 
+After a hard fought batter with Leukemia, Emma passed away. Immediately after hearing the news, I began to find a last minute flight to Toronto to be with Fraser and his family for what I imagined would be a tough week. 
+
+Fraser is not someone that I grew up with. He's not am old family friend. We're not even related! In fact, our first introduction happened through a friend of a friend situation!
+
+Why we're we such close friends? Because of that x-factor that draws people together. 
+
 
 
 # Ideas
