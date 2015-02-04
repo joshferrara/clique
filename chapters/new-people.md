@@ -3,3 +3,8 @@ A story of a guy from Toronto, who visits Baton Rouge, Louisiana and fit in inst
 
 # John Paul
 A story of a guy who's been around for a few years, but never completely in our circle. We all knew him, talked, knew the same people, but never really hung out. He showed interest in my business, and after getting coffee a few times to talk, I realized he was actually a lot like us in some ways. A few weeks later, he was at my birthday party and helping collaborate on a work project. He was open to new people, and we were too. He just fit.
+
+# Zsanae
+
+
+# Ryan Graves
