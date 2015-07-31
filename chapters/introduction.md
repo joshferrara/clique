@@ -2,6 +2,9 @@ This will be the very first chapter of the book, and will hopefully set the tone
 
 Ideally this would be the first thing finished to help set a pattern for the rest of the writing.
 
+# The Big Idea
+Only people on the outside call it a"clique". If you're on the inside its just family. How can the same group be so good for some, and so bad for others?
+
 # About Me
 To help you understand my personal context in my friend groups, it's probably helpful to understand how I fit in the stories you're about to read. 
 
