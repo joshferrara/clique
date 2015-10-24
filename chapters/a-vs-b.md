@@ -13,3 +13,5 @@ A couple thoughts:
 - Remember, you are on someone's B-list. That's ok, too.
 - Identifying where a friend falls is important for adjusting your expectations. Don't expect A-list behavior from a B-list friend; you'll always be disappointed.
 - Lists are seasonal. You and your friends change, and everyone moves around from A to B sometimes.
+- You have to make time for both, because B-list today might be A-list tomorrow. 
+- It's ok to have just A-list time; it fills you up.
